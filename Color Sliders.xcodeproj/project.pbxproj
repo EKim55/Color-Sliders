@@ -12,6 +12,9 @@
 		0AB157182050C8840024AA06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AB157162050C8840024AA06 /* Main.storyboard */; };
 		0AB1571A2050C8840024AA06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AB157192050C8840024AA06 /* Assets.xcassets */; };
 		0AB1571D2050C8840024AA06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AB1571B2050C8840024AA06 /* LaunchScreen.storyboard */; };
+		0AB157272050E6880024AA06 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AB157242050E6870024AA06 /* Icon@2x.png */; };
+		0AB157282050E6880024AA06 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AB157252050E6870024AA06 /* Icon-72.png */; };
+		0AB157292050E6880024AA06 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AB157262050E6870024AA06 /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		0AB157192050C8840024AA06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AB1571C2050C8840024AA06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AB1571E2050C8840024AA06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AB157242050E6870024AA06 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		0AB157252050E6870024AA06 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		0AB157262050E6870024AA06 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				0AB157192050C8840024AA06 /* Assets.xcassets */,
 				0AB1571B2050C8840024AA06 /* LaunchScreen.storyboard */,
 				0AB1571E2050C8840024AA06 /* Info.plist */,
+				0AB157252050E6870024AA06 /* Icon-72.png */,
+				0AB157262050E6870024AA06 /* Icon.png */,
+				0AB157242050E6870024AA06 /* Icon@2x.png */,
 			);
 			path = "Color Sliders";
 			sourceTree = "<group>";
@@ -123,7 +132,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AB157292050E6880024AA06 /* Icon.png in Resources */,
 				0AB1571D2050C8840024AA06 /* LaunchScreen.storyboard in Resources */,
+				0AB157282050E6880024AA06 /* Icon-72.png in Resources */,
+				0AB157272050E6880024AA06 /* Icon@2x.png in Resources */,
 				0AB1571A2050C8840024AA06 /* Assets.xcassets in Resources */,
 				0AB157182050C8840024AA06 /* Main.storyboard in Resources */,
 			);
